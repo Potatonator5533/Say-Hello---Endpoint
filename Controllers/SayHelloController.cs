@@ -18,7 +18,7 @@ public class SayHelloController : ControllerBase
     [Route("Name/{userInput}")]
     public string Name(string userInput)
     {
-        userName = "Hello, " + userInput;
+        userName = "Hello, " + userInput + ".";
         return userName;
     }
 }
