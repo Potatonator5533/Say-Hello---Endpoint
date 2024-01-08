@@ -1,0 +1,33 @@
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\appsettings.json
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Say Hello - Endpoint.exe
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Say Hello - Endpoint.deps.json
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Say Hello - Endpoint.runtimeconfig.json
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Say Hello - Endpoint.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Say Hello - Endpoint.pdb
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.csproj.AssemblyReference.cache
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.AssemblyInfoInputs.cache
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.AssemblyInfo.cs
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.Say Hello - Endpoint.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.build.Say Hello - Endpoint.props
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Say Hello - Endpoint.props
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Say Hello - Endpoint.props
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\scopedcss\bundle\Say Hello - Endpoint.styles.css
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.csproj.CopyComplete
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\refint\Say Hello - Endpoint.dll
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.pdb
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\Say Hello - Endpoint.genruntimeconfig.cache
+C:\Users\josue\Documents\Say Hello - Endpoint\obj\Debug\net7.0\ref\Say Hello - Endpoint.dll
